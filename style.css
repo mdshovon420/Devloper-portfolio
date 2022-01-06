@@ -24,4 +24,8 @@ section{
 }
 .top-background{
     background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+}
+.devlop{
+    background-image: url(images/shape-6.png);
 }
