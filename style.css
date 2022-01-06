@@ -62,3 +62,16 @@ section{
 .image{
     background-image: url(images/shape-4.png);
 }
+.border{
+    border-left: orangered solid;
+}
+#Mission{
+    text-align: center;
+    background-color: black;
+}
+#orange{
+    color: orangered;
+}
+#white{
+    color: whitesmoke;
+}
