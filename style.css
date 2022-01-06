@@ -29,3 +29,36 @@ section{
 .devlop{
     background-image: url(images/shape-6.png);
 }
+
+.global{
+    background-image: url(images/shape-9.png);
+    background-repeat: no-repeat;
+}
+.jio{
+    text-align: center;
+}
+.experince{
+    box-shadow: 2px 2px 20px  rgb(128, 128, 128);
+    
+    margin: 2%;
+    width: 27%;
+    padding-left: 1%;
+}
+#color-1{
+     background-color: hotpink;
+}
+#color-2{
+    background-color: rgb(155, 204, 21);
+}
+#color-3{
+    background-color: mediumturquoise;
+}
+.color{
+    color: orangered;
+}
+.font{
+    font-size: 17px;
+}
+.image{
+    background-image: url(images/shape-4.png);
+}
